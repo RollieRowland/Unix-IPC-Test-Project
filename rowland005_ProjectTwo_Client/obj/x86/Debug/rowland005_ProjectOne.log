@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (C:\Users\steve\source\repos\rowland005_ProjectTwo\rowland005_ProjectTwo_Client\obj\x86\Debug\) contains files shared from another project (ProjectOne_Client.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Validating architecture
+  Validating sources
+  Copying sources remotely to 'longbow'
+  Starting remote build
+  Compiling sources:
+  UserInputManager.cpp
+  Linking objects
+  rowland005_ProjectOne.vcxproj -> C:\Users\steve\source\repos\rowland005_ProjectTwo\rowland005_ProjectTwo_Client\bin\x86\Debug\client.out

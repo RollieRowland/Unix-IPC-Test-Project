@@ -1,0 +1,9 @@
+﻿  Validating architecture
+  Validating sources
+  Copying sources remotely to 'longbow'
+  Starting remote build
+  Compiling sources:
+  Validator.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Application Type\Linux\1.0\Linux.targets(269,5): warning : unused variable 'clientFD'
+  Linking objects
+  ProjectTwo_ValidationClient.vcxproj -> C:\Users\steve\source\repos\rowland005_ProjectTwo\ProjectTwo_ValidationClient\bin\x86\Debug\validator.out
